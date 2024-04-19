@@ -1,5 +1,5 @@
+![image](https://github.com/ABooD125141/HIDEFILE/assets/136172276/baa298f6-7086-4f0a-97ca-25ec3e9dc998)
 
-![Capturefsd](https://github.com/ABooD125141/HIDEFILES/assets/136172276/b5a07c5b-87f4-4b40-9771-dd2199cf326c)
 # HIDEFILES
 HIDEFILES tool the most advanced tool for hiding folders and files
 files, images , vidoes,folders and more.
