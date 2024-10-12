@@ -1,1 +1,1 @@
-![sleekshot](https://github.com/user-attachments/assets/ba7d7cb4-9b81-4487-b5b5-005122972166)
+![نهائي](https://github.com/user-attachments/assets/0c4e9d4d-d7db-4a57-8dca-288cdf875937)
